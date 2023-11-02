@@ -25,15 +25,15 @@ let myTuple: [string, number] = ["a", 1];
 let usersDemo: {}[] = [{ name: "Sakib", age: 29 }];
 let users: { name: string; age: number }[] = [{ name: "Sakib", age: 29 }];
 
-// Object
-const myUser: {
-  name: string;
-  fullName?: string;
-  age: number;
-  isAdult: boolean;
-} = {
-  name: "Jhon",
-  fullName: "Jhon Doe",
-  age: 25,
-  isAdult: true,
-};
+// // Object
+// const myUser: {
+//   name: string;
+//   fullName?: string;
+//   age: number;
+//   isAdult: boolean;
+// } = {
+//   name: "Jhon",
+//   fullName: "Jhon Doe",
+//   age: 25,
+//   isAdult: true,
+// };
